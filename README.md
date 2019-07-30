@@ -22,7 +22,7 @@ git clone https://github.com/Shushuda/work-stuff.git /tmp/work-stuff
 ## 4. Switcheroos
 ```
 cp -a /tmp/work-stuff/.SpaceVim.d ~/.SpaceVim.d
-cp /tmp/work-stuff/.gitconfig ~
+cp /tmp/work-stuff/.gitconfig ~/
 ```
 
 ## 5. Relaunch SpaceVim like 3 times
