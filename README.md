@@ -9,6 +9,9 @@ sudo apt-get install vim-gnome -y
 ## 2. SpaceVim to infinity and beyond
 ```
 curl -sLf https://spacevim.org/install.sh | bash
+sudo pip install flake8
+sudo pip install isort
+sudo pip install yapf
 ```
 
 ## 3. Repo stuffs
