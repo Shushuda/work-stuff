@@ -26,11 +26,11 @@
     max_column = 79
     info_symbol = 'i'
     enable_tabline_filetype_icon = true
-    enable_neomake = true
+    #enable_neomake = true
 	# if neomake fails, comment above and uncommend below
-	#enable_neomake = false
-    #enable_ale = true
-    lint_on_save = 1
+    enable_neomake = false
+    enable_ale = true
+    lint_on_save = 0
     enable_statusline_mode = false
 	# in case I'm in the mood for customisation
     #bootstrap_before = "myspacevim#before"
