@@ -3,7 +3,7 @@ Copy-paste stuffs 'cause why not.
 
 ## 1. Clipboard is bae
 ```
-sudo apt-get install vim-gnome -y
+sudo apt install vim-gnome -y
 ```
 
 ## 2. SpaceVim to infinity and beyond
